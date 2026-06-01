@@ -1,0 +1,11 @@
+K(30%): 100
+I(30%): 91
+C(10%): 100
+A(30%): 93
+95.2% of 90 - 85.68%
+
+Total words should exclude empty strings.
+All symbols should be removed not just the ones in the example
+Use functions to break up your code so it is easier to read and debug.
+
+Otherwise great work!
